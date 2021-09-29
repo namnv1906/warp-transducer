@@ -135,7 +135,7 @@ with open(README_PATH, "r") as handle:
 
 setuptools.setup(
     name = "warprnnt_tensorflow",
-    version = "0.1",
+    version = "0.2",
     description = "TensorFlow wrapper for warp-transducer",
     url="https://github.com/HawkAaron/warp-transducer",
     long_description = LONG_DESCRIPTION,
